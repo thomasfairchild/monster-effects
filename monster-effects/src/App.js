@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Monster Effects</h1>
       <h3>Your Imagination is our Destination</h3>
+      <p>Hello World! My intention for this website is to illustrate my Motion Graphics skills.</p>
     </div>
   );
 }
